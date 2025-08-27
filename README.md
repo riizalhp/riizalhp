@@ -57,7 +57,7 @@ I'm **Rizal**, a **Project Manager** who plans, designs, and ships delightful di
 </details>
 
 <details>
-  <summary><b>boycodes Projects</b> — web & creative tech for brands</summary>
+  <summary><b>contsol dev Projects</b> — web & creative tech for brands</summary>
   <br/>
   Ongoing freelance projects: product sites, AI helpers, digital solutions.
 </details>
