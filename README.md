@@ -21,7 +21,7 @@
 I'm **Rizal**, a **Project Manager** who plans, designs, and ships delightful digital products.
 
 - 🔭 Currently crafting: **Resume.ai** — AI-powered CV builder  
-- 🛠️ Running **boycodes** — modern websites, apps, and AI helpers for SMEs & creators  
+- 🛠️ Running **contsol dev** — modern websites, apps, and AI helpers for SMEs & creators  
 - 🧭 I blend **Agile PM** with hands-on **Dev** to move ideas → MVP → scale  
 - 🎯 Goal 2025: publish 3 OSS mini-tools + 1 case study/month  
 
